@@ -112,7 +112,7 @@ h2 a:focus {
 }
 h2 a:hover {
 	text-decoration:none;
-	color:#ee8359;
+	color:#00439c;
 }
 h2 em {
 	display:block;
@@ -1332,7 +1332,7 @@ span.dropcap {
 }
 .footer .footer-text a {
 	text-decoration:none;
-	color:#ee8359;
+	color:#fff;
 }
 .footer .footer-text a:hover {
 	text-decoration:none;
@@ -1429,7 +1429,7 @@ span.dropcap {
 }
 .title-section ul li a:hover {
 	text-decoration:none;
-	color:#ee8359;
+	color:#00439c;
 }
 .post_meta {
 	border-color:#9d9d9d;
@@ -1438,7 +1438,7 @@ span.dropcap {
 	color:#fff;
 }
 .post_meta .post_meta_unite { border-color:#9d9d9d !important; }
-.post_meta i { color:#ee8359; }
+.post_meta i { color:#005fa8; }
 .post_meta a {
 	text-decoration:none;
 	color:#fff;

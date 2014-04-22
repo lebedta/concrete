@@ -124,7 +124,7 @@ a {
 	text-decoration:none;
 }
 a:hover, a:focus {
-	color:#ee8359;
+	color:blue;
 	text-decoration:underline;
 }
 .img-rounded {

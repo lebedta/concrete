@@ -903,11 +903,11 @@ html.ie8 .service-box .service-box_txt {
 a.btn-primary {
 	background:url(images/button.gif) repeat-x 0% 0%;
 	display:inline-block;
-	height:42px;
+	height:40px;
 	overflow:hidden;
 	margin:0;
 	padding:0 21px 0 21px;
-	line-height:42px;
+	line-height:40px;
 	font-family:;
 	font-size:13px;
 	font-weight:400;

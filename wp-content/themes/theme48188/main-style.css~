@@ -95,7 +95,7 @@ h1 a:focus {
 }
 h1 a:hover {
 	text-decoration:none;
-	color:#00499c;
+	color:#0C93FA;
 }
 h2 {
 	margin-bottom:27px;
@@ -112,7 +112,7 @@ h2 a:focus {
 }
 h2 a:hover {
 	text-decoration:none;
-	color:#00499c;
+	color:#0C93FA;
 }
 h2 em {
 	display:block;
@@ -134,7 +134,7 @@ h3 a:focus {
 }
 h3 a:hover {
 	text-decoration:none;
-	color:#00499c;
+	color:#0C93FA;
 }
 h4 {
 	margin-bottom:28px;
@@ -158,7 +158,7 @@ h5 a {
 }
 h5 a:hover {
 	text-decoration:none;
-	color:#ee8359;
+	color:#0C93FA;
 }
 h6 { text-transform:uppercase; }
 p { margin:0 0 18px 0; }
@@ -401,7 +401,7 @@ html.ie8 .header .nav__primary { margin-right:0; }
 	left:50%;
 }
 .header .nav__primary ul.sf-menu li li:hover ul, .header .nav__primary ul.sf-menu li li.sfHover ul {
-	background:#ee8359;
+	background:#0C93FA;
 	margin:0;
 	top:-31px;
 	left:116px;
@@ -672,8 +672,8 @@ body.home .content-holder { padding:0 0 16px 0; }
 	line-height:36px;
 }
 #sidebar ul.social li .social_ico { margin:0 10px 0 0; }
-#sidebar #wp-calendar caption { color:#ee8359; }
-#sidebar #wp-calendar thead tr th { color:#ee8359; }
+#sidebar #wp-calendar caption { color:#0C93FA; }
+#sidebar #wp-calendar thead tr th { color:#0C93FA; }
 .box {
 	background:#f0f0f0 url(images/box.gif) repeat-x 0% 0%;
 	position:relative;
@@ -723,8 +723,8 @@ body.home .content-holder { padding:0 0 16px 0; }
 @media (max-width: 767px) {
 	.service-box { margin:0 0 35px 0; }
 }
-.service-box:hover h2 { color:#00499c; }
-.service-box:hover .btn-align a { color:#00499c; }
+.service-box:hover h2 { color:#0C93FA; }
+.service-box:hover .btn-align a { color:#0C93FA; }
 .service-box.extra { margin:0; }
 @media (max-width: 767px) {
 	.service-box.extra { margin:0 0 35px 0; }
@@ -835,7 +835,7 @@ html.ie8 .service-box .service-box_txt {
 }
 .service-box .btn-align a:hover {
 	text-decoration:none;
-	color:#00499c;
+	color:#0C93FA;
 }
 .carousel-wrap { margin:0 0 30px 0; }
 .carousel-wrap h2 {
@@ -1012,7 +1012,7 @@ html.ie8 .info_box em { padding:0; }
 		font-size:12px;
 	}
 }
-.info_box a.btn-primary { background:#00499c; }
+.info_box a.btn-primary { background:#0C93FA; }
 .info_box a.btn-primary:hover { background:#424242; }
 div.list.custom-list {
 	overflow:hidden;
@@ -1118,11 +1118,11 @@ ul.services li h5 {
 	line-height:18px;
 	font-size:12px;
 	text-transform:uppercase;
-	color:#00499c;
+	color:#0C93FA;
 }
 ul.services li h5 a {
 	text-decoration:none;
-	color:#00499c;
+	color:#0C93FA;
 }
 ul.services li h5 a:hover {
 	text-decoration:none;
@@ -1155,11 +1155,11 @@ ul.team li h5 {
 	line-height:18px;
 	font-size:12px;
 	text-transform:uppercase;
-	color:#00499c;
+	color:#0C93FA;
 }
 ul.team li h5 a {
 	text-decoration:none;
-	color:#00499c;
+	color:#0C93FA;
 }
 ul.team li h5 a:hover {
 	text-decoration:none;
@@ -1177,7 +1177,7 @@ span.dropcap {
 	font-family:;
 	font-size:48px;
 	font-weight:700;
-	color:#00499c;
+	color:#0C93FA;
 }
 .testimonials { padding:0 0 0 7px; }
 .testimonials .testi-item {
@@ -1209,7 +1209,7 @@ span.dropcap {
 	font-size:12px;
 	text-align:right;
 	text-transform:uppercase;
-	color:#00499c;
+	color:#0C93FA;
 }
 .footer {
 	background:none;
@@ -1328,11 +1328,11 @@ span.dropcap {
 }
 .footer .footer-text strong a:hover {
 	text-decoration:none;
-	color:#00499c;
+	color:#ee8359;
 }
 .footer .footer-text a {
 	text-decoration:none;
-	color:#0c93fa;
+	color:#ee8359;
 }
 .footer .footer-text a:hover {
 	text-decoration:none;
@@ -1409,7 +1409,7 @@ span.dropcap {
 	text-shadow:none;
 	color:#fff;
 }
-.title-section ul li.active { color:#00499c; }
+.title-section ul li.active { color:#ee8359; }
 .title-section ul li.divider {
 	line-height:0;
 	font-size:0;
@@ -1429,7 +1429,7 @@ span.dropcap {
 }
 .title-section ul li a:hover {
 	text-decoration:none;
-	color:#00499c;
+	color:#ee8359;
 }
 .post_meta {
 	border-color:#9d9d9d;
@@ -1438,7 +1438,7 @@ span.dropcap {
 	color:#fff;
 }
 .post_meta .post_meta_unite { border-color:#9d9d9d !important; }
-.post_meta i { color:#00499c; }
+.post_meta i { color:#ee8359; }
 .post_meta a {
 	text-decoration:none;
 	color:#fff;
@@ -1597,13 +1597,13 @@ ul.pager li a:hover {
 @media (max-width: 767px) {
 	.error404-holder { text-align:center; }
 }
-.error404-holder .error404-holder_num { color:#00499c; }
+.error404-holder .error404-holder_num { color:#ee8359; }
 .error404-holder h4 {
 	letter-spacing:normal;
 	line-height:18px;
 	font-size:12px;
 	font-weight:400;
-	color:#00499c;
+	color:#ee8359;
 }
 article.clients .thumbnail {
 	background:none;

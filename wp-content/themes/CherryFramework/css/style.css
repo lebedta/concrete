@@ -102,7 +102,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul {
 	top:0;
 	left:10em;
 }
-.sf-menu { float:right; }
+.sf-menu { float:left; }
 .sf-menu > li {
 	background:#ddd;
 	text-align:center;

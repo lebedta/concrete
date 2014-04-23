@@ -205,4 +205,4 @@ function my_post_type_team() {
 				);
 }
 add_action('init', 'my_post_type_team');
-?> 
+?>

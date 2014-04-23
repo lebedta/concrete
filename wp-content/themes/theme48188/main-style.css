@@ -1708,3 +1708,9 @@ div.pull-right strong
     padding: 0 0 0 30px;
     position: relative;
 }
+
+.imgLoaded {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    width: 1170px !important;
+}

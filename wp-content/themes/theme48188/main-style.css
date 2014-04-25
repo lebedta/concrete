@@ -212,7 +212,7 @@ html.ie8 img.alignright { max-width:96%; }
 .header {
     background:#424242;
     margin:0;
-    padding:71px 0 33px 0;
+    padding: 15px 0 0px 0;
     border:none;
 }
 @media (max-width: 767px) {
@@ -740,7 +740,7 @@ body.home .content-holder { padding:0 0 16px 0; }
     }
 }
 .service-box h2 {
-    margin:0 0 -4px 0;
+    margin: 0px 0 10px -1px;
     padding:6px 0 0 0;
     letter-spacing:-1px;
     line-height:34px;
@@ -783,7 +783,7 @@ html.ie8 .service-box h2 {
 .service-box .service-box_txt {
     margin:0;
     line-height:21px;
-    font-size:13px;
+    font-size:14px;
     color:#767575;
 }
 @media (min-width: 979px) and (max-width: 1200px) {
@@ -1662,6 +1662,7 @@ article.testimonial blockquote { color:#424242; }
 
 .span12 .row .span8 {
     width: 100%;
+    height: 15px;
 }
 
 .span4 {
@@ -1704,10 +1705,10 @@ div.pull-right strong
 {
     display: block;
     font-weight: 400;
-    margin: 0 0 22px;
+    margin: 0 0 18px;
     padding: 0 0 0 30px;
     position: relative;
-    font-size: 22px;
+    font-size: 24px;
 }
 
 .imgLoaded {
@@ -1716,3 +1717,8 @@ div.pull-right strong
     margin-left: 0px !important;
 
 }
+
+.sf-menu { float: left;
+    margin-left: 70px;
+    position: relative;
+    top: -50px; }

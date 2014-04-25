@@ -1645,4 +1645,4 @@ article.testimonial blockquote { color:#424242; }
 	-moz-box-sizing:border-box;
 	box-sizing:border-box;
 }
-";s:5:"files";a:3:{s:78:"/home/timon/PhpProject/sergey_concrete/wp-content/themes/theme48188/style.less";i:1397591512;s:97:"/home/timon/PhpProject/sergey_concrete/wp-content/themes/theme48188/bootstrap/less/variables.less";i:1398416681;s:94:"/home/timon/PhpProject/sergey_concrete/wp-content/themes/theme48188/bootstrap/less/mixins.less";i:1397591512;}s:7:"updated";i:1398416682;}
+";s:5:"files";a:3:{s:78:"/home/timon/PhpProject/sergey_concrete/wp-content/themes/theme48188/style.less";i:1397591512;s:97:"/home/timon/PhpProject/sergey_concrete/wp-content/themes/theme48188/bootstrap/less/variables.less";i:1398416681;s:94:"/home/timon/PhpProject/sergey_concrete/wp-content/themes/theme48188/bootstrap/less/mixins.less";i:1397591512;}s:7:"updated";i:1398422259;}

@@ -23,7 +23,6 @@
 <!-- END LOGO -->
 
 <div class="logo pull-right">
-    <em>+ 7 (495) 550-66-01</em>
-    <br>
+    <strong>(495) 550-66-01</strong>
     <strong>г. Дзержинский</strong>
 </div>

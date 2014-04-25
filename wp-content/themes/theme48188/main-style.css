@@ -1669,7 +1669,7 @@ article.testimonial blockquote { color:#424242; }
 }
 
 div.pull-right em:before {
-    background:url(images/icon_phone.png) no-repeat 0% 0%;
+
     display:block;
     width:20px;
     height:20px;
@@ -1689,7 +1689,7 @@ div.pull-right em
 }
 
 div.pull-right strong:before {
-    background:url(images/icon_home.png) no-repeat 0% 0%;
+
     display:block;
     width:19px;
     height:16px;
@@ -1704,9 +1704,10 @@ div.pull-right strong
 {
     display: block;
     font-weight: 400;
-    margin: 0 0 21px;
+    margin: 0 0 22px;
     padding: 0 0 0 30px;
     position: relative;
+    font-size: 22px;
 }
 
 .imgLoaded {

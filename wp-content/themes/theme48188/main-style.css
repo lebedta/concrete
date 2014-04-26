@@ -1737,7 +1737,7 @@ table  td, table  th{
     padding: 7px 7px 7px 12px; border:#fff 1px solid;
 }
 table td.tabletitle, table tr.tabletitle, th{
-    background: dodgerblue;
+    background: #2cadc9;
 }
 table tr{
     background: #424242;

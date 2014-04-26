@@ -707,8 +707,9 @@ body.home .content-holder { padding:0 0 16px 0; }
 }
 .service-box {
     background:none;
-    margin:0 0 75px 60px;
+    margin:0 0 40px 60px;
     padding:0;
+    padding: 0 0 0 15px;
     border:none;
     -webkit-border-radius:0;
     -moz-border-radius:0;
@@ -716,6 +717,8 @@ body.home .content-holder { padding:0 0 16px 0; }
     -webkit-box-shadow:none;
     -moz-box-shadow:none;
     box-shadow:none;
+    border-left: 4px solid #00499C;
+
 }
 @media (min-width: 768px) and (max-width: 979px) {
     .service-box { margin:0 0 35px 0; }
@@ -732,6 +735,7 @@ body.home .content-holder { padding:0 0 16px 0; }
 .service-box .icon {
     float:left;
     margin:0 13px 0 0;
+    height: 0px;
 }
 @media (min-width: 768px) and (max-width: 979px) {
     .service-box .icon {
@@ -741,7 +745,7 @@ body.home .content-holder { padding:0 0 16px 0; }
 }
 .service-box h2 {
     margin: 0px 0 10px -1px;
-    padding:6px 0 0 0;
+    /*padding:6px 0 0 0;*/
     letter-spacing:-1px;
     line-height:34px;
     font-family:;

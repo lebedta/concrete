@@ -1722,3 +1722,26 @@ div.pull-right strong
     margin-left: 70px;
     position: relative;
     top: -50px; }
+
+table {
+    border: 1px solid #fff;
+    width:70%;
+    border-collapse:collapse;
+}
+
+table  td, table  th{
+    padding: 7px 7px 7px 12px; border:#fff 1px solid;
+}
+table td.tabletitle, table tr.tabletitle, th{
+    background: dodgerblue;
+}
+table tr{
+    background: #424242;
+}
+table tr:hover {
+    background-color: #00499C;
+}
+
+.content-holder #content {
+    padding-top: 25px;
+}

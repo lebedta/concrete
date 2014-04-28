@@ -787,7 +787,7 @@ html.ie8 .service-box h2 {
 .service-box .service-box_txt {
     margin:0;
     line-height:21px;
-    font-size:14px;
+    font-size:17px;
     color:#767575;
 }
 @media (min-width: 979px) and (max-width: 1200px) {
@@ -832,6 +832,7 @@ html.ie8 .service-box .service-box_txt {
     text-transform:uppercase;
     text-decoration:none;
     color:#424242;
+    padding-top: 10px;
 }
 .service-box .btn-align a:focus {
     background:none;
@@ -1748,4 +1749,8 @@ table tr:hover {
 
 .content-holder #content {
     padding-top: 25px;
+}
+
+.service-box .service-box_txt span {
+    color: #000;
 }

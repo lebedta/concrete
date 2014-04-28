@@ -3333,7 +3333,7 @@ a.label:hover, a.badge:hover {
 	letter-spacing:-1px;
 }
 .hero-unit li { line-height:27px; }
-.pull-right { float:right; }
+.pull-right { float:right;  padding-top: 35px; }
 .pull-left { float:left; }
 .hide { display:none; }
 .show { display:block; }

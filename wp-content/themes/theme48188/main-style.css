@@ -1280,8 +1280,8 @@ span.dropcap {
 .footer div.info strong:before {
     background:url(images/icon_home.png) no-repeat 0% 0%;
     display:block;
-    width:19px;
-    height:16px;
+    width:24px;
+    height: 24px;
     overflow:hidden;
     position:absolute;
     top:4px;
@@ -1300,8 +1300,8 @@ span.dropcap {
 .footer div.info em:before {
     background:url(images/icon_phone.png) no-repeat 0% 0%;
     display:block;
-    width:20px;
-    height:20px;
+    width:24px;
+    height:24px;
     overflow:hidden;
     position:absolute;
     top:2px;

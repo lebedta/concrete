@@ -787,7 +787,7 @@ html.ie8 .service-box h2 {
 .service-box .service-box_txt {
     margin:0;
     line-height:21px;
-    font-size:17px;
+    font-size:15px;
     color:#767575;
 }
 @media (min-width: 979px) and (max-width: 1200px) {
@@ -945,6 +945,8 @@ a.btn-primary:hover {
     -webkit-border-radius:0;
     -moz-border-radius:0;
     border-radius:0;
+    font-size: 15px;
+    /*font-style: italic;*/
 }
 .info_box img {
     background:none;
@@ -1033,7 +1035,7 @@ div.list.custom-list ul li {
     padding:15px 0 16px 19px;
     list-style:none;
     line-height:18px;
-    font-size:13px;
+    font-size:15px;
     font-weight:400;
     border-top:1px solid #bdbdbd;
     color:#fefefe;
@@ -1758,4 +1760,20 @@ table tr:hover {
 
 .service-box .service-box_txt span {
     color: #000;
+}
+
+.production a{
+    float: left;
+    padding-right: 30px;
+    font-size: 24px;
+    color: lightgray;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    line-height: 34px;
+}
+
+.production {
+    height: 34px;
+    position: relative;
+    top: 15px;
 }

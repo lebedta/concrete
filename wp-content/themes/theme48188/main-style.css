@@ -1674,6 +1674,11 @@ article.testimonial blockquote { color:#424242; }
     width: 100%;
 }
 
+.span5
+{
+    width: 370px;
+}
+
 div.pull-right em:before {
 
     display:block;

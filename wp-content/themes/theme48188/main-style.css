@@ -1792,3 +1792,7 @@ table tr:hover {
     font-weight:bold
 
 }
+
+.caption__portfolio h3 a{
+    font-size: 19px;
+}

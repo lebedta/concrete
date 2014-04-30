@@ -84,7 +84,8 @@ function my_post_type_portfolio() {
 						'comments')
 					) 
 				);
-	register_taxonomy('portfolio_category', 'portfolio', array('hierarchical' => true, 'label' => theme_locals("categories"), 'singular_name' => theme_locals("category"), 'rewrite' => true, 'query_var' => true));
+
+	register_taxonomy('portfolio_category', 'portfolio', array('hierarchical' => true, 'label' => theme_locals("categories"), 'singular_name' => theme_locals("category"), 'rewrite' => array('slug' => 'portfolio-categories'), 'query_var' => true));
 	register_taxonomy('portfolio_tag', 'portfolio', array('hierarchical' => false, 'label' => theme_locals("tags"), 'singular_name' => theme_locals("tag"), 'rewrite' => true, 'query_var' => true));
 }
 add_action('init', 'my_post_type_portfolio');

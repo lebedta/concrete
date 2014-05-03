@@ -1796,3 +1796,7 @@ table tr:hover {
 .caption__portfolio h3 a{
     font-size: 19px;
 }
+
+.gm-style .gm-style-iw {
+    color: #000000;
+}

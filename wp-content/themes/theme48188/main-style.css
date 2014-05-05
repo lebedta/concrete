@@ -1800,3 +1800,15 @@ table tr:hover {
 .gm-style .gm-style-iw {
     color: #000000;
 }
+
+.portfolio-2cols img {
+    height: 357px;
+}
+
+.portfolio-4cols img {
+    height: 168px;
+}
+
+#filters {
+    padding-top: -5px;
+}

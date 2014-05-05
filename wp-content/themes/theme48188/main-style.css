@@ -1812,3 +1812,21 @@ table tr:hover {
 #filters {
     padding-top: -5px;
 }
+
+.object_category
+{
+    font-size: 16px;
+}
+
+.object_category span{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-right: 10px;
+    display: block;
+    float: left;
+    padding: 8px 0;
+}
+
+.caption__portfolio h3 a {
+    font-size: 16px;
+}

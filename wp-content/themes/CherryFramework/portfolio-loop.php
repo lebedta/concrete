@@ -14,8 +14,8 @@ if ( !$category_value ) {
 	switch ($folio_filter) {
 		case 'cat': ?>
 			<div class="filter-wrapper clearfix">
-				<div class="pull-right">
-					<strong><?php echo theme_locals("categories"); ?>: </strong>
+				<div class="pull-left object_category">
+					<span><?php echo theme_locals("categories"); ?>: </span>
 					<ul id="filters" class="filter nav nav-pills">
 						<?php
 							// query

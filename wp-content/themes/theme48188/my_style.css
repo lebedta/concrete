@@ -1,0 +1,291 @@
+
+h1 a:hover {
+    color:#00499c;
+}
+h2 a:hover {
+    color:#00499c;
+}
+h3 a:hover {
+    color:#00499c;
+}
+h5 a:hover {
+    color:#00499c;
+}
+.header {
+    padding: 15px 0 0px 0;
+}
+@media (min-width: 768px) and (max-width: 979px) {
+    .header .logo p {
+        background:none;
+        float:none;
+        width:100%;
+        overflow:hidden;
+        margin:0;
+        padding:0;
+        line-height:18px;
+        text-align:center;
+    }
+}
+.header .nav__primary ul.sf-menu li li:hover ul, .header .nav__primary ul.sf-menu li li.sfHover ul {
+    background:#00499c;
+}
+#sidebar ul.social li .social_ico { margin:0 10px 0 0; }
+#sidebar #wp-calendar caption { color:#00499c; }
+#sidebar #wp-calendar thead tr th { color:#00499c; }
+.service-box {
+    background:none;
+    margin:0 0 40px 60px;
+    padding: 0 0 0 15px;
+    border-left: 4px solid #40c3f7;
+}
+.service-box:hover h2 { color:#00499c; }
+.service-box:hover .btn-align a { color:#00499c; }
+.service-box.extra { margin:0;  margin-left: 60px;}
+
+.service-box .icon {
+    height: 0px;
+}
+.service-box h2 {
+    margin: 0px 0 10px -1px;
+}
+.service-box .service-box_txt {
+    font-size:15px;
+}
+.service-box .btn-align a {
+    padding-top: 10px;
+}
+.service-box .btn-align a:hover {
+    color:#00499c;
+}
+.carousel-wrap span.es-nav-prev:hover { background-position:0% -15px; }
+a.btn-primary {
+    height:40px;
+    line-height:40px;
+}
+.info_box {
+    font-size: 15px;
+}
+.info_box a.btn-primary { background:#00499c; }
+div.list.custom-list ul li {
+    font-size:15px;
+}
+ul.services li h5 {
+    color:#00499c;
+}
+ul.services li h5 a {
+    color:#00499c;
+}
+ul.team li h5 {
+    color:#00499c;
+}
+ul.team li h5 a {
+    color:#00499c;
+}
+span.dropcap {
+    color:#00499c;
+}
+.testimonials .testi-item small.testi-meta {
+    color:#00499c;
+}
+.footer div.info strong:before {
+    width:24px;
+    height: 24px;
+}
+.footer div.info em:before {
+    width:24px;
+    height:24px;
+}
+.footer .footer-text strong a:hover {
+    color:#00499c;
+}
+.footer .footer-text a {
+    color:#00499c;
+}
+
+.footer ul.social li {
+    display:none;
+}
+.title-section ul li.active { color:#00499c; }
+.title-section ul li a:hover {
+    color:#00499c;
+}
+.post_meta i { color:#00499c; }
+.error404-holder .error404-holder_num { color:#00499c; }
+.error404-holder h4 {
+    color:#00499c;
+}
+.box .row .span4 {
+    margin-left: 131px;
+    width: 35%;
+}
+
+.row .span4 .service_box {
+    background: none repeat scroll 0 0 #A8A8A8;
+    padding: 5px;
+    border: 1px solid #717171;
+    border-radius: 2px;
+}
+
+.span12 .row .span8{
+    width: 100%;
+    height: 15px;
+}
+
+.span4 {
+    width: 100%;
+}
+
+.span5
+{
+    width: 370px;
+}
+
+div.pull-right em:before {
+
+    display:block;
+    width:20px;
+    height:20px;
+    overflow:hidden;
+    position:absolute;
+    top:-1px;
+    left:0;
+    content:'';
+}
+
+div.pull-right em
+{
+    display: block;
+    font-style: normal;
+    padding: 0 0 0 35px;
+    position: relative;
+}
+
+div.pull-right strong:before {
+
+    display:block;
+    width:19px;
+    height:16px;
+    overflow:hidden;
+    position:absolute;
+    top:2px;
+    left:0;
+    content:'';
+}
+
+div.pull-right strong
+{
+    display: block;
+    font-weight: 400;
+    margin: 0 0 18px;
+    padding: 0 0 0 30px;
+    position: relative;
+    font-size: 24px;
+}
+
+.imgLoaded {
+    width: 1170px !important;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+
+}
+
+.sf-menu { float: left;
+    margin-left: 70px;
+    position: relative;
+    top: -50px; }
+
+table {
+    border: 1px solid #fff;
+    width:70%;
+    border-collapse:collapse;
+}
+
+table  td, table  th{
+    padding: 7px 7px 7px 12px; border:#fff 1px solid;
+}
+table td.tabletitle, table tr.tabletitle, th{
+    background: #2cadc9;
+}
+table tr{
+    background: #424242;
+}
+table tr:hover {
+    background-color: #00499C;
+}
+
+.content-holder #content {
+    padding-top: 25px;
+}
+
+.service-box .service-box_txt span {
+    color: #000;
+}
+
+.production a{
+    float: left;
+    padding-right: 30px;
+    font-size: 24px;
+    color: lightgray;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    line-height: 34px;
+}
+
+.production {
+    height: 34px;
+    position: relative;
+    top: 15px;
+}
+
+.sidebar{
+    padding-top: 0 !important;
+    float: right;
+    width: 370px;
+    position: relative;
+    top: -95px;
+}
+
+.posttitle
+{
+    color: #7cdefc;
+    font-weight:bold
+
+}
+
+.caption__portfolio h3 a{
+    font-size: 19px;
+}
+
+.gm-style .gm-style-iw {
+    color: #000000;
+}
+
+.portfolio-2cols img {
+    height: 357px;
+}
+
+.portfolio-4cols img {
+    height: 168px;
+}
+
+#filters {
+    padding-top: -5px;
+}
+
+.object_category
+{
+    font-size: 16px;
+}
+
+.object_category span{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-right: 10px;
+    display: block;
+    float: left;
+    padding: 8px 0;
+}
+
+.caption__portfolio h3 a {
+    font-size: 16px;
+}

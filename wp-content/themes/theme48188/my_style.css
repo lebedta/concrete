@@ -290,3 +290,25 @@ table tr:hover {
     font-size: 16px;
     letter-spacing: 0;
 }
+
+.header .nav__primary .sf-menu ul {
+    background: none repeat scroll 0 0 #525252;
+    padding: 4px 0 0;
+    width: 126px;
+}
+
+.header .nav__primary .sf-menu li:hover ul, .header .nav__primary .sf-menu li.sfHover ul {
+    margin:0 0 0 -63px;
+    top:36px;
+    left:50%;
+}
+
+
+.header .nav__primary .sf-menu > li li a {
+    border-bottom: 1px dashed #666666;
+    padding-bottom: 12px;
+}
+
+.header .nav__primary .sf-menu > li li {
+    margin: 16px 0 0 0;
+}

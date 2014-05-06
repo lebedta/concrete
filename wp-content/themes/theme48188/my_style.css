@@ -288,4 +288,5 @@ table tr:hover {
 
 .caption__portfolio h3 a {
     font-size: 16px;
+    letter-spacing: 0;
 }
